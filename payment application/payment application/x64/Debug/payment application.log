@@ -1,0 +1,3 @@
+﻿  server.c
+E:\visual studio 2022 projects\payment application\payment application\server\server.c(96): warning C4715: 'isValidAccount': not all control paths return a value
+  payment application.vcxproj -> E:\visual studio 2022 projects\payment application\x64\Debug\payment application.exe
